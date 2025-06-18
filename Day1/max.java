@@ -2,7 +2,7 @@ import java.util.*;
 
 public class max{
 	public static void main(String[] args)
-	{
+	{ 
 		Scanner inp=new Scanner(System.in);
 		int [] arr=new int[20];
 		System.out.println("Enter the size of the array:");
